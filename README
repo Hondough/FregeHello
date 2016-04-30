@@ -1,1 +1,7 @@
-First Frege project. Trying to bring in a simple Haskell program.
+First Frege project.
+
+Trying to bring in a simple Haskell program.
+
+This project will return to the screen the input arguements.
+
+It will also, eventually, solve a grid problem.
