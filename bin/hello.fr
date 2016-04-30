@@ -1,3 +1,0 @@
-module Hello where
-
-main args = println $ "Hello world! your arguements are: " ++ show args ++ " and nothing else."
